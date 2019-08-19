@@ -1,0 +1,49 @@
+body, html {
+  height: 100%;
+}
+.bg {
+  background-image: url("../images/software01.jpg");
+
+  height: 100%;
+
+  background-position: center;
+  background-size: cover;
+}
+
+h1, h2, h3{
+  color: white;
+}
+
+p {
+  text-align: center;
+}
+
+#descr{
+  font-size: 70px;
+  color: white;
+  text-align: center;
+}
+
+.card{
+  background-color: grey;
+  border-color: white;
+  border-width: 3px;
+}
+
+.card-img-top {
+  padding: 50px
+}
+
+
+#footer{
+  padding: 10px;
+  background-color: white;
+}
+
+#Career_descr{
+  text-align: center;
+}
+
+.skill-row{
+  height: 50px;
+}

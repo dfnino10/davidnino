@@ -1,0 +1,15 @@
+{
+  "name": "DavidFelipeNinoRomero.com",
+  "version": "1.0.0",
+  "description": "Página web personal de David Felipe Nino Romero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.2.0"
+  }
+}
