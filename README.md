@@ -1,3 +1,5 @@
+### No se si me equivoco pero no vi nada de javascript en la página
+
 # Welcome to my personal webpage!
 Goal:
 The goal with this project is to develop a personal webpage using HTML, CSS, JS and Bootstrap framework. At the same time, get web development skills. 
