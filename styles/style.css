@@ -45,5 +45,11 @@ p {
 }
 
 .skill-row{
+  align-items: left;
   height: 50px;
+}
+
+.skill-image{
+  height: 50px;
+  width: 50px;
 }
